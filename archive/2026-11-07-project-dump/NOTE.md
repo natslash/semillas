@@ -1,0 +1,1 @@
+Original export of the first (discarded) Claude project, recoded to this repo's code names on 2026-11-07. Historical reasoning only; the live ledgers supersede anything here. The legend table in 00-README.md shows the old role codes → see README.md at repo root for current names.
