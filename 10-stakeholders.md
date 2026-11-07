@@ -79,6 +79,7 @@
 
 ## Comet — senior engineer, Gross's team
 - Star performer, on track for principal, paid well below. Likely already doing part of the missing principal work.
+- **Identity to confirm:** Comet and Flint may be the same person (Shashi, 2026-11-07). If so, merge under Comet and note: the star performer is also the one with a history of heated arguments with Tango.
 ---
 - *Read 2026-11-07:* the retention risk I most need to get ahead of; raise with Jandro before the pay cycle, separately from the Tango case.
 

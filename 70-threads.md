@@ -9,6 +9,7 @@
 - 2026-11-06 → 30-tech-product → joint Monday conversation with california; ID-encryption task.
 - 2026-11-07 → 05-self → my stake: a test of judgement under conflict of interest, watched from Berlin.
 - Link: Comet (20-em-gross) is probably doing the missing principal work unpaid — the Tango case and the Comet retention case are the same gap seen from two sides.
+- Open: if Comet = Flint, the strongest engineer and Tango's most vocal critic are one person — his account of Tango carries both the most weight (closest to the work) and the most heat. Weight it as a primary source with a stake.
 - Link: Gross's view of Tango may be fixed (05-self) — weight his Tango input accordingly; Blanket's is the more measured source.
 
 ## Delivery and the "high-performing teams" question `#delivery`
