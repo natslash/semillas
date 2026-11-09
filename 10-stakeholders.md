@@ -7,7 +7,10 @@
 - Runs a wide portfolio: hiring to 220, offices, salary bands, promotion committee, exec visits, OKRs, benefits, hackathon.
 - Publicly told Saffron in the SEM channel that he has to micro-manage ownership (2026-11-04).
 ---
+- Replied to both my Friday mails within three hours on a Friday evening (2026-11-06); delegated the Tango format decision to me with conditions (written expectations, documentation, instant PIP if no change). Was Tango's reviewing manager in the Apr 2026 Leapsome cycle: 2.4/4, Communication 1/4, written improvement areas.
+---
 - *Read 2026-11-07:* overloaded and short of people who close loops without him. The currency with him is visible ownership and never making him chase. Contrast with peers will happen whether I want it or not; stay neutral.
+- *Read 2026-11-09:* he gave Tango hard written feedback six months ago and did not follow it with expectations or consequences — the "potential PIP case" is partly his own unfinished loop handed over. Useful to know; not to be said.
 
 ## Saffron — peer Senior EM
 - Most experienced of the three SEMs (joined ~2 months before me). Owns cards and some teams; Valencia teams only for now. Leads the mentorship and internal-mobility OKR rows; holds the €40k leadership/coaching budget. Consolidates the engineering OKR sheet into the main tracker.
@@ -71,6 +74,7 @@
 - Tango case: in a three-way with Jandro and me we converged on pre-PIP then PIP. Alone with me afterwards she said: confirm with Tango that he received the feedback, and if he says yes, go straight to PIP. I have mailed california, Jandro and her with the situation.
 ---
 - *Read 2026-11-07:* pragmatic; her private position is harder than the group one. The process question (pre-PIP or not) is now open again.
+- *Read 2026-11-09:* her condition for a direct PIP (he confirms he received the feedback) is already met — lunch 2026-11-06 and the signed Apr 2026 review. If I still choose pre-PIP, I need a reason other than "he hasn't been told".
 
 ## Compass — Operations
 - Onboarded me. Gave all EMs/SEMs an overview of PIP and offboarding details on Friday 2026-11-06. Likely the contact for speeding up tool access.
@@ -80,8 +84,11 @@
 ## Comet — senior engineer, Gross's team
 - Star performer, on track for principal, paid well below. Likely already doing part of the missing principal work.
 - **Identity to confirm:** Comet and Flint may be the same person (Shashi, 2026-11-07). If so, merge under Comet and note: the star performer is also the one with a history of heated arguments with Tango.
+- Leapsome review of Tango (Apr 2026): Comet wrote the most detailed critical peer input (five documented impact failures) and describes a direct conflict with Tango, with quoted words and a crisis afterwards. The agile coach refers to the same conflict. This makes Comet = Flint likely but not confirmed. The review places him under a different EM than this ledger does — verify team.
+- Jandro (2026-11-06): graded Senior Fulfilling, received a raise; increase possible next cycle if "well and way above".
 ---
 - *Read 2026-11-07:* the retention risk I most need to get ahead of; raise with Jandro before the pay cycle, separately from the Tango case.
+- *Read 2026-11-09:* his Tango input is primary (closest to the work, specific, dated examples) and carries a personal injury. Use the examples; do not use him as the case's voice. Jandro has already framed the pay question as "next cycle" — the ask must be numbers, not adjectives.
 
 ## Flint — engineer (team to confirm)
 - History of heated arguments with Tango (team feedback). Met me at the post-all-hands Halloween party; first question was whether I have a technical background.
@@ -90,8 +97,9 @@
 
 ## Anchor — Berlin manager running the other expected PIP
 - Jandro asked me to coordinate with him.
+- Week-1 Friday update (2026-11-06) records a first check-in on his PIP case and a weekly touchpoint established. Closes the 20-em-luna commitment dated 2026-11-13.
 ---
-- *Read:* not met.
+- *Read:* none yet beyond the first check-in.
 
 ## Ruler — Berlin contact for delivery metrics methodology
 - Needed for O4.KR2 (same method as Berlin).
