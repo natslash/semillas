@@ -24,6 +24,7 @@ Private, code-named ledgers for my work as Senior Engineering Manager (Property 
 | `70-threads.md` | Cross-cutting themes, each linking back to ledger entries by date. The connective tissue | never |
 | `80-skip-levels.md` | One block per IC, dates seen, what I heard | no (edited in place) |
 | `90-encounters.md` | One line per one-off encounter. Promote to `10-stakeholders.md` on second appearance | quarterly |
+| `viz/` | Generated views, regenerated monthly by `prompts/monthly-viz.md`: timelines, tag×person matrix, commitment board, read-drift, stake map. Mermaid + one self-contained HTML | regenerated |
 | `archive/` | Rotated entries and the original project dump | — |
 
 ## Entry template (ledger files)
@@ -95,10 +96,15 @@ Fixed list. Add a tag only when a theme recurs three times without one.
 
 Teams, locations and tools (LUNA, Sirius, GK, PMP, Valencia, Berlin, Leapsome, Codex) are kept as-is.
 
+## Navigating
+
+Open the repo folder as an Obsidian vault for search, tag browsing, backlinks and graph view. Entries link people and threads as `[[Gross]]`, `[[tango-case]]`; the graph is built from those. `.obsidian/` is gitignored. For patterns rather than navigation, use `viz/`.
+
 ## Workflow
 
 - **Weekly (Friday):** paste raw notes → `prompts/weekly-review.md` → entries added, `70-threads.md` updated, Friday update drafted → commit.
-- **Monthly:** `prompts/monthly-insights.md` over the whole corpus.
+- **Monthly:** `prompts/monthly-insights.md` over the whole corpus, then `prompts/monthly-viz.md`.
+- **Any session:** decisions, changed reads, commitments and open questions that emerge from discussion are filed as `chat` entries before the session ends (AGENTS.md §4).
 - **Quarterly:** `prompts/quarterly-rotation.md` — entries older than ~3 months compressed into a dated summary paragraph per file; raw entries moved to `archive/`.
 - **Before a hard conversation:** `prompts/prep-meeting.md`.
 

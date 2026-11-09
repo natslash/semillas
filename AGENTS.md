@@ -15,6 +15,7 @@ You are working in Shashi's private management ledger. He is a Senior Engineerin
 - **facts** holds only what was said or happened, attributable to a source. **my read** holds Shashi's interpretation, and anything he flags as a feeling or hunch is marked "(speculation)". Never move content between these fields.
 - Keep observed behaviour, stated intent and inferred motive distinct. Do not diagnose anyone's personality or motives; describe behaviour patterns and name them as patterns.
 - Commitments are `who → what → by when`. No commitment without an owner; "by when" may be "open" but must be present.
+- Write code names and thread names as wikilinks the first time they appear in an entry: `[[Gross]]`, `[[california]]`, `[[tango-case]]`. Obsidian and the monthly viz pass build the graph from these; plain readers see brackets and nothing breaks.
 - Tags come from the fixed vocabulary. Propose a new tag only after a theme has recurred three times untagged.
 - One fact goes in one ledger — the one for the person or stream it belongs to. Cross-references go in `70-threads.md`, not by duplicating entries.
 - Material about Tango's performance case goes in `25-pe-tango.md` and `people/tango/`, never in another EM's ledger. If an EM's 1:1 produced Tango feedback, the EM ledger gets one line: "Tango feedback → see 25-pe-tango.md YYYY-MM-DD".
@@ -35,6 +36,8 @@ You are working in Shashi's private management ledger. He is a Senior Engineerin
 - Start of session: read `AGENTS.md`, `README.md`, `00-context.md`, `70-threads.md`, then the ledgers the task needs. For a monthly pass, read everything.
 - Weekly review: follow `prompts/weekly-review.md`. Monthly: `prompts/monthly-insights.md`. Quarterly: `prompts/quarterly-rotation.md`. Before a hard meeting: `prompts/prep-meeting.md`. Friday update: `prompts/friday-update.md`.
 - When Shashi says "just notes, not looking for an answer": file the entries, confirm in one line, and stop.
+- **End of every session, before the last reply:** if the discussion produced a decision, a changed read of a person, a commitment, or an open question, write it to the ledger it belongs to as a `### YYYY-MM-DD · chat · <topic>` entry — decision and reasoning in one paragraph under facts/my read, commitments with owner and date — and update `70-threads.md`. Commit and push. Do not transcribe the discussion; capture what changed. If nothing changed, say so in one line and write nothing. When Shashi says "decided — file it", this is the procedure.
+- Monthly, after `prompts/monthly-insights.md`, run `prompts/monthly-viz.md` and commit `viz/`.
 - Never rewrite history. Entries are appended; corrections are new entries that reference the one they correct ("corrects 2026-11-05"). Exception: `10-stakeholders.md`, `80-skip-levels.md` and `00-context.md` are edited in place.
 - Commit messages: terse, code names only, e.g. `week 46: Gross 1:1, Tango conversation, threads`.
 
