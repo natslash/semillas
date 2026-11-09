@@ -84,11 +84,10 @@
 ## Comet — senior engineer, Gross's team
 - Star performer, on track for principal, paid well below. Likely already doing part of the missing principal work.
 - **Identity to confirm:** Comet and Flint may be the same person (Shashi, 2026-11-07). If so, merge under Comet and note: the star performer is also the one with a history of heated arguments with Tango.
-- Leapsome review of Tango (Apr 2026): Comet wrote the most detailed critical peer input (five documented impact failures) and describes a direct conflict with Tango, with quoted words and a crisis afterwards. The agile coach refers to the same conflict. This makes Comet = Flint likely but not confirmed. The review places him under a different EM than this ledger does — verify team.
-- Jandro (2026-11-06): graded Senior Fulfilling, received a raise; increase possible next cycle if "well and way above".
+- Corrected 2026-11-09: I had attributed the critical peer review of Tango and Jandro's "Senior Fulfilling, got a raise" remark to Comet. Shashi: Comet is a different person. Both now sit with an engineer whose code name is pending (see 25-pe-tango 2026-11-09, 50-jandro 2026-11-06).
 ---
 - *Read 2026-11-07:* the retention risk I most need to get ahead of; raise with Jandro before the pay cycle, separately from the Tango case.
-- *Read 2026-11-09:* his Tango input is primary (closest to the work, specific, dated examples) and carries a personal injury. Use the examples; do not use him as the case's voice. Jandro has already framed the pay question as "next cycle" — the ask must be numbers, not adjectives.
+- *Read 2026-11-09:* retention case unchanged; it may not have reached Jandro yet (see 50-jandro open). Numbers, not adjectives.
 
 ## Flint — engineer (team to confirm)
 - History of heated arguments with Tango (team feedback). Met me at the post-all-hands Halloween party; first question was whether I have a technical background.

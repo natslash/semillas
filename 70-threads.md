@@ -11,7 +11,7 @@
 - 2026-11-06 → 25-pe-tango → lunch with Tango: he confirms he received feedback, "unclear how to correct", willing to change. Jandro delegates the format: written expectations + documentation, instant PIP if no change.
 - 2026-11-09 → 25-pe-tango, people/tango/feedback-log → Apr 2026 Leapsome review read: Jandro gave written feedback (2.4/4, Communication 1/4). **Corrects the 2026-11-05 line above:** authority did give feedback; what was never given is expectations with consequences.
 - Link: Hazel's test for a direct PIP is met twice (lunch, signed review). The pre-PIP now has to be justified on its own merits — fairness of a fresh start under a new manager — not on "nobody told him".
-- Link: Comet's review text is the richest dated evidence in the case and comes from the person with the most heat (see 10-stakeholders). Use the examples, verify dates, do not make him the witness.
+- Link: the senior peer reviewer's text (code name pending; not Comet — corrected 2026-11-09) is the richest dated evidence in the case and comes from the person with the most heat. Use the examples, verify dates, do not make him the witness.
 - Link: Comet (20-em-gross) is probably doing the missing principal work unpaid — the Tango case and the Comet retention case are the same gap seen from two sides.
 - Open: if Comet = Flint, the strongest engineer and Tango's most vocal critic are one person — his account of Tango carries both the most weight (closest to the work) and the most heat. Weight it as a primary source with a stake.
 - Link: Gross's view of Tango may be fixed (05-self) — weight his Tango input accordingly; Blanket's is the more measured source.
@@ -31,7 +31,7 @@
 - 2026-11-03 → 20-em-gross → Comet underpaid; Gross himself names salary as a leaver factor.
 - 2026-10-30 → 00-context → EM salary bands cycle planned mid-Nov → early Jan.
 - Link: the EM band cycle is the window for Gross; the engineer cycle ("exceptional engineers added", unsure) is the window for Comet. Both need raising with Jandro before mid-Nov.
-- 2026-11-06 → 50-jandro → Jandro on Comet: "Senior Fulfilling, got a raise, next cycle if way above". Pre-positioned against an out-of-cycle move; the 1:1 ask needs numbers.
+- 2026-11-06 → 50-jandro → Jandro on the retention-risk engineer named in the update (not Comet — corrected 2026-11-09; code name pending): "Senior Fulfilling, got a raise, next cycle if way above". Pre-positioned against an out-of-cycle move; the 1:1 ask needs numbers. Open: whether Comet's own gap has reached Jandro at all.
 
 ## Politics and positioning `#politics`
 - 2026-11-04 → 50-jandro → public jab at Saffron on ownership.
